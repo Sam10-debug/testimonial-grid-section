@@ -35,11 +35,13 @@ img{
     padding: 1rem;
     border-radius: 1rem;
     opacity: 0.75;
+    width: fit-content;
 }
 .div-2{
     background-color: hsl(217, 19%, 35%);
     padding: 1rem;
     border-radius: 1rem;
+    width: fit-content;
 }
 .div-3{
     background-color: hsl(0, 0%, 81%);
@@ -47,11 +49,13 @@ img{
     grid-column: 4;
     padding: 1rem;
     border-radius: 1rem;
+    width: fit-content;
 }
 .div-4{
     background-color: white;
     padding: 1rem;
     border-radius: 1rem;
+    width: fit-content;
 }
 .div-5{
     background-color:  hsl(219, 29%, 14%);
@@ -59,6 +63,7 @@ img{
     grid-column: 2/4;
     padding: 1rem;
     border-radius: 1rem;
+    width: fit-content;
 }
 .textwrap{
     font-weight: 600;
